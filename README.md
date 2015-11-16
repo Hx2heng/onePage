@@ -2,7 +2,7 @@
 
   OnePage -"All content in one page"
   
-  一款基于jQuery || Zepto 的页面小插件，用css3的新特性使内容按比例缩放在其父级容器里。
+  一款基于jQuery || Zepto 的页面小插件，用css3的新特性使已指定宽高的内容按比例缩放在其父级容器里。
  
   Created by HuangXinZheng
   
